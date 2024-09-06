@@ -16,9 +16,8 @@ This project is a web-based character viewer that allows users to switch between
 ├── style.css         # Styles for the project
 ├── script.js         # JavaScript functionality for fetching and displaying characters
 ├── assets/           # Folder for background images and other assets
-│   ├── bg.jpeg       # Background image for Star Wars mode
-│   ├── bg2.jpeg      # Background image for Pokémon mode
-│   └── btn_bg.jpg    # Button background image (if any)
+│   ├── starwarbg.jpeg       # Background image for Star Wars mode
+│   ├── pokemonbg.jpg      # Background image for Pokémon mode
 └── README.md         # This file
 
 ```
