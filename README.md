@@ -24,7 +24,7 @@ This project is a web-based character viewer that allows users to switch between
 
 ## How It Works
 
-- Upon loading the webpage, the viewer defaults to *StarWars Mode*.
+- Upon loading the webpage, the viewer defaults to **StarWars Mode**.
 - The **toggle button** present at the bottom of the screen can be clicked to switch between StarWars and Pokémon modes.
 - In each mode, clicking **Random** button will display a random character from that mode with relevant attributes such as name, image, and either birth year (for StarWars) or height (for Pokémon).
 
